@@ -1,0 +1,36 @@
+{
+  "name": "svg-icons",
+  "version": "0.0.0",
+  "description": "Atom snippets for a variety of SVG icons",
+  "author": {
+    "name": "Jan T. Sott",
+    "url": "http://github.com/idleberg"
+  },
+  "keywords": [
+    "svg icons",
+    "octicons",
+    "evil icons",
+    "glyphs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idleberg/atom-svg-icons"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "devDependencies": {
+    "coffeelint-stylish": "^0.1.2",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-coffeelint": "^0.6.0",
+    "gulp-debug": "^3.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-jsonlint": "^1.2.0",
+    "gulp-lesshint": "^2.1.0",
+    "jshint": "^2.9.4"
+  },
+  "scripts": {
+    "test": "gulp lint"
+  }
+}
