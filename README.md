@@ -8,7 +8,7 @@
 
 Atom snippets for a variety of SVG icons ([see details](https://github.com/idleberg/atom-svg-icons#prefixes)).
 
-This package is also available for [Visual Studio Code](https://github.com/idleberg/vscode-svg-icons)
+This package is also available for [Sublime Text](https://github.com/idleberg/sublime-svg-icons) and [Visual Studio Code](https://github.com/idleberg/vscode-svg-icons)
 
 ## Installation
 
