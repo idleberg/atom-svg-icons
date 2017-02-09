@@ -1,7 +1,7 @@
 {
   "name": "svg-icons",
   "version": "0.2.1",
-  "description": "Snippets for popular SVG fonts Octicons, Evil Icons, Open Iconic, SmartIcons Glyphs, and Bytesize",
+  "description": "Snippets for popular SVG icons, including Octicons, Evil Icons, Open Iconic, SmartIcons Glyphs, and Bytesize",
   "author": {
     "name": "Jan T. Sott",
     "url": "http://github.com/idleberg"
