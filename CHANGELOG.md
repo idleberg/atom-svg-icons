@@ -1,6 +1,7 @@
 # v0.4.0 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.4.0)
 
 - add support for JSX
+- include `CHANGELOG.md`
 
 # v0.3.0 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.3.0)
 
