@@ -23,7 +23,7 @@ This package is also available for [Sublime Text](https://github.com/idleberg/su
 
 ## Usage
 
-Snippets are limited to the `html` scope. Typing the class name of an icon using the designated prefix will complete to a SVG tag for the icon.
+Snippets are limited to the `.text.html` and `.source.js.jsx` scope. Typing the class name of an icon using the designated prefix will complete to a SVG tag for the icon.
 
 ### Prefixes
 
