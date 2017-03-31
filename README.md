@@ -10,6 +10,10 @@ Atom snippets for a variety of SVG icons ([see details](https://github.com/idleb
 
 This package is also available for [Sublime Text](https://github.com/idleberg/sublime-svg-icons) and [Visual Studio Code](https://github.com/idleberg/vscode-svg-icons)
 
+![Screenshot](https://raw.github.com/idleberg/atom-svg-icons/master/screenshot.gif)
+
+*See it in action (theme is [Hopscotch](https://atom.io/themes/hopscotch))*
+
 ## Installation
 
 ### apm
