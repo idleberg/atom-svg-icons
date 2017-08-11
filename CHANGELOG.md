@@ -1,3 +1,7 @@
+# v0.4.2 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.4.2)
+
+- bump Octicons to v6.0.1
+
 # v0.4.1 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.4.1)
 
 - add screenshot
