@@ -1,3 +1,7 @@
+# v0.5.0 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.5.0)
+
+- add Feather Icons
+
 # v0.4.2 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.4.2)
 
 - bump Octicons to v6.0.1
