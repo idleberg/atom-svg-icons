@@ -1,3 +1,9 @@
+# v0.5.1 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.5.1)
+
+- bump Feather Icons to 4.4
+- bump Bytesize Icons to 1.3
+- update `devDependencies`
+
 # v0.5.0 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.5.0)
 
 - add Feather Icons
