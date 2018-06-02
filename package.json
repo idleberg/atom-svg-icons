@@ -29,6 +29,7 @@
     "husky": "^0.14.3"
   },
   "scripts": {
+    "precommit": "npm test",
     "test": "gulp lint"
   }
 }
