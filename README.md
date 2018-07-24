@@ -33,7 +33,7 @@ Snippets are limited to the `.text.html` and `.source.js.jsx` scope. Typing the 
 
 Prefix         | SVG Icons                           | Version
 ---------------|-------------------------------------|--------
-`bi`           | [Bytesize Icons][bi]                | 1.1
+`bi`           | [Bytesize Icons][bi]                | 1.3
 `ei`           | [Evil Icons][ei]                    | 1.8.0
 `feather`      | [Feather][feather]                  | 4.7.0
 `octicon`      | [GitHub Octicons][octicon]          | 6.0.1
