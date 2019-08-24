@@ -3,8 +3,7 @@
 [![apm](https://img.shields.io/apm/l/svg-icons.svg?style=flat-square)](https://atom.io/packages/svg-icons)
 [![apm](https://img.shields.io/apm/v/svg-icons.svg?style=flat-square)](https://atom.io/packages/svg-icons)
 [![apm](https://img.shields.io/apm/dm/svg-icons.svg?style=flat-square)](https://atom.io/packages/svg-icons)
-[![Travis](https://img.shields.io/travis/idleberg/atom-svg-icons.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-svg-icons)
-[![David](https://img.shields.io/david/dev/idleberg/atom-svg-icons.svg?style=flat-square)](https://david-dm.org/idleberg/atom-svg-icons?type=dev)
+[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-svg-icons)](https://circleci.com/gh/idleberg/atom-svg-icons/)
 
 Atom snippets for a variety of SVG icons ([see details](https://github.com/idleberg/atom-svg-icons#prefixes)).
 
