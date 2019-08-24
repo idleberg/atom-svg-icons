@@ -1,3 +1,10 @@
+# v0.5.4 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.5.4)
+
+- bump Bytesize Icons to 1.4
+- bump Feather Icons to 4.24.0
+- use CircleCI
+- update dependencies
+
 # v0.5.3 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.5.3)
 
 - bump Feather Icons to 4.7
