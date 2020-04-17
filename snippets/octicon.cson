@@ -1,4 +1,4 @@
-'.text.html':
+'.source.svelte, .text.html':
   'octicon-alert':
     body: '<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-alert\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#alert\" />\n</svg>$0'
     description: '<svg>'

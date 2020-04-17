@@ -1,4 +1,4 @@
-'.text.html':
+'.source.svelte, .text.html':
   'arrow-bottom':
     body: '<svg class=\"i\">\n\t<use xlink:href=\"#arrow-bottom\" />\n</svg>'
     description: '<use>'

@@ -1,4 +1,4 @@
-".text.html":
+".source.svelte, .text.html":
   "se-angry":
     body: "<${1:div} class=\"se se-angry se-${2:s}\"></${1:div}>"
     description: "<div>"
