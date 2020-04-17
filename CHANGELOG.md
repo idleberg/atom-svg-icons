@@ -1,3 +1,8 @@
+# v0.6.0 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.6.0)
+
+- add support for Svelte
+- update dependencies
+
 # v0.5.4 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.5.4)
 
 - bump Bytesize Icons to 1.4
