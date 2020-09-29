@@ -30,15 +30,17 @@ Snippets are limited to the `.text.html` and `.source.js.jsx` scope. Typing the 
 
 ### Prefixes
 
-Prefix         | SVG Icons                           | Version
----------------|-------------------------------------|--------
-`bi`           | [Bytesize Icons][bi]                | 1.4
-`ei`           | [Evil Icons][ei]                    | 1.8.0
-`feather`      | [Feather][feather]                  | 4.24.0
-`octicon`      | [GitHub Octicons][octicon]          | 6.0.1
-`oi`           | [Open Iconic][oi]                   | 1.1.0
-`se`           | [Speakemoji][se]                    | 1.0
-`si`           | [SmartIcons Glyphs][si]             | 1.1
+| Prefix         | SVG Icons                           | Version |
+|----------------|-------------------------------------|---------|
+| `bi`           | [Bytesize Icons][bi]                | 1.4     |
+| `ei`           | [Evil Icons][ei]                    | 1.8.0   |
+| `feather`      | [Feather][feather]                  | 4.24.0  |
+| `octicon`      | [GitHub Octicons][octicon]          | 6.0.1   |
+| `oi`           | [Open Iconic][oi]                   | 1.1.0   |
+| `se`           | [Speakemoji][se]                    | 1.0     |
+| `si`           | [SmartIcons Glyphs][si]             | 1.1     |
+| `tabler`       | [Tabler Icons][tabler]              | 1.30.0  |
+| `teenyicons`   | [Teenyicons][teenyicons]            | 0.4.0   |
 
 ## License
 
@@ -55,3 +57,5 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [oi]: https://github.com/iconic/open-iconic
 [se]: https://github.com/rizalrenaldi/speakemoji
 [si]: https://github.com/frexy/glyph-iconset
+[tabler]: https://github.com/tabler/tabler-icons
+[teenyicons]: https://github.com/teenyicons/teenyicons

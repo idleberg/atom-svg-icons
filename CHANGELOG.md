@@ -1,3 +1,9 @@
+# v0.7.0 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.7.0)
+
+- add Tabler Icons
+- add Teenyicons
+- update dependencies
+
 # v0.6.0 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.6.0)
 
 - add support for Svelte
