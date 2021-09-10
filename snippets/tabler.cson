@@ -1,4 +1,4 @@
-".source.svelte, .text.html, .source.js.jsx":
+".source.svelte, .text.html, .source.js.jsx, .source.ts, .source.tsx":
   "tabler-2fa":
     body: '''
       <svg width="${1:24}" height="${1:24}">

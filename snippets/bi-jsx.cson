@@ -1,4 +1,4 @@
-'.source.js.jsx':
+'.source.js.jsx, .source.ts, .source.tsx':
   'arrow-bottom':
     body: '<svg className=\"i\">\n\t<use xlink:href=\"#arrow-bottom\" />\n</svg>'
     description: '<use>'

@@ -1,4 +1,4 @@
-'.source.js.jsx':
+'.source.js.jsx, .source.ts, .source.tsx':
   'oi-account-login':
     body: '<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#account-login\" className=\"account-login\"></use>\n</svg>$0'
     description: '<use>'

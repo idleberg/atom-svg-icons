@@ -1,4 +1,4 @@
-".source.js.jsx":
+".source.js.jsx, .source.ts, .source.tsx":
   "se-angry":
     body: "<${1:div} className=\"se se-angry se-${2:s}\"></${1:div}>"
     description: "<div>"

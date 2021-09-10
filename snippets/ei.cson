@@ -1,4 +1,4 @@
-".source.svelte, .text.html, .source.js.jsx":
+".source.svelte, .text.html, .source.js.jsx, .source.ts, .source.tsx":
   "ei-archive":
     body: "<div data-icon=\"ei-archive\"${1: data-size=\"${2:s|m|l}}\"$3></div>$0"
     description: "<div data-icon>"

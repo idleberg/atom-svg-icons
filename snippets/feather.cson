@@ -1,4 +1,4 @@
-".source.svelte, .text.html, .source.js.jsx":
+".source.svelte, .text.html, .source.js.jsx, .source.ts, .source.tsx":
   'alert-circle':
     body: '<i data-feather=\"alert-circle\"></i>'
     description: '<i>'
