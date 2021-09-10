@@ -1,3 +1,9 @@
+# v0.8.0 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.8.0)
+
+- add TypeScript/TSX support
+- update toolchain
+- switch CI provider
+
 # v0.7.0 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.7.0)
 
 - add Tabler Icons
