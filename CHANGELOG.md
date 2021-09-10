@@ -1,3 +1,7 @@
+# v0.8.1 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.8.1)
+
+- fix precommit hook
+
 # v0.8.0 [#](https://github.com/idleberg/atom-svg-icons/releases/tag/v0.8.0)
 
 - add TypeScript/TSX support
