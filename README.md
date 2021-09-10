@@ -3,7 +3,7 @@
 [![apm](https://img.shields.io/apm/l/svg-icons.svg?style=flat-square)](https://atom.io/packages/svg-icons)
 [![apm](https://img.shields.io/apm/v/svg-icons.svg?style=flat-square)](https://atom.io/packages/svg-icons)
 [![apm](https://img.shields.io/apm/dm/svg-icons.svg?style=flat-square)](https://atom.io/packages/svg-icons)
-[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-svg-icons)](https://circleci.com/gh/idleberg/atom-svg-icons/)
+[![CI](https://img.shields.io/github/workflow/status/idleberg/atom-svg-icons/CI?style=flat-square)](https://github.com/idleberg/atom-svg-icons/actions)
 
 Atom snippets for a variety of SVG icons ([see details](https://github.com/idleberg/atom-svg-icons#prefixes)).
 
@@ -26,7 +26,7 @@ This package is also available for [Sublime Text](https://github.com/idleberg/su
 
 ## Usage
 
-Snippets are limited to the `.text.html` and `.source.js.jsx` scope. Typing the class name of an icon using the designated prefix will complete to a SVG tag for the icon.
+Snippets are limited to the `.text.html` and `.source.js.jsx, .source.ts, .source.tsx` scope. Typing the class name of an icon using the designated prefix will complete to a SVG tag for the icon.
 
 ### Prefixes
 
